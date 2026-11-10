@@ -1,0 +1,31 @@
+{
+  "accessed_date": "2026-10-26",
+  "repository": "https://github.com/freek1/emopain-stl",
+  "revision_observed": "4fef8869d9ca3b47a5ed52ab4c63f3e9bd5b60d7",
+  "files": [
+    {
+      "path": "utils/EncoderLoss.py",
+      "sha256": "15eea1285ff92548c4dbc13b1f401254122f964fb64cc806afc9f3c9a4ddc078"
+    },
+    {
+      "path": "utils/RateCoder.py",
+      "sha256": "2120f42f992c38e3bcb1df29f94e29ffcadd57fd190c0a528936a1e4a1285c1d"
+    },
+    {
+      "path": "utils/RecurrentClassifier.py",
+      "sha256": "3500e111ac3ccb76af83fa00971a3d2500d4e4ee5381121b360713d6afafb342"
+    },
+    {
+      "path": "utils/STAL.py",
+      "sha256": "994d89620b09c74fa59e550809770ccef37442ef28ffacec2f4c203ed23eff1e"
+    },
+    {
+      "path": "utils/helpers.py",
+      "sha256": "544c6a1d7f71ad4b473ba19856b023d5820fff5d2c4cdfd4e5d420d2aa7e86d7"
+    },
+    {
+      "path": "train.py",
+      "sha256": "eb027c8b60513cbc9dc3b446294e76edc26e6778d56b0e104af581aa49fdbe33"
+    }
+  ]
+}

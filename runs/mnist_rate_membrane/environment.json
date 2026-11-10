@@ -1,0 +1,8 @@
+{
+  "python": "3.13.14",
+  "torch": "2.14.1+cpu",
+  "snntorch": "1.0.0",
+  "device": "cpu",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch_threads": 4
+}
